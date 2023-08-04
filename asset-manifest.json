@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cvip-tempconverter/static/css/main.44aafa3d.css",
+    "main.js": "/cvip-tempconverter/static/js/main.56bc8fbc.js",
+    "static/js/787.c1fada45.chunk.js": "/cvip-tempconverter/static/js/787.c1fada45.chunk.js",
+    "index.html": "/cvip-tempconverter/index.html",
+    "main.44aafa3d.css.map": "/cvip-tempconverter/static/css/main.44aafa3d.css.map",
+    "main.56bc8fbc.js.map": "/cvip-tempconverter/static/js/main.56bc8fbc.js.map",
+    "787.c1fada45.chunk.js.map": "/cvip-tempconverter/static/js/787.c1fada45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44aafa3d.css",
+    "static/js/main.56bc8fbc.js"
+  ]
+}
